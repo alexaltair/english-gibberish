@@ -39,10 +39,11 @@ Words three letters or larger
       b c d f g h j k l m n p r s t v w y z
       exceptions; qu
     Two letters
-      sc sh sk sl sm sn sp squ st sw
+      sc sh sk sl sm sn sp st sw
       pr br tr dr cr gr fr
       pl bl kl cl gl fl
       tw ph
+      squ
     Three letters
       spl spr str scr shr thr
 
