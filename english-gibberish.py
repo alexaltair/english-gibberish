@@ -1,19 +1,25 @@
 import random
 
 def syllable(end_of_word=False):
-  one_letter_onsets = "b c d f g h j k l m n p r s t v w y z".split()
+  one_letter_onsets = "b c d f g h j k l m n p r s t v w y".split()
   two_letter_onsets = '''sc sh sk sl sm sn sp st sw
                          pr br tr dr cr gr fr
                          pl bl kl cl gl fl
                          tw ph'''.split()
-  three_letter_onsets = "spl spr str scr shr thr".split()
+  three_letter_onsets = "z spl spr str scr shr thr".split()
+
+  vowels = "a e i o u".split()
+  digraphs = "y ai au ea ee ei eo eu ia ie io iu oa oe oi oo ou ua ue ui uo".split()
 
   0.175
   0.326
 
-  onset = 's'
-  nucleus = 'e'
-  coda = 't'
+  onset = random.choice(100*one_letter_onsets + 10*two_letter_onsets + three_letter_onsets)
+  nucleus = random.choice(10*vowels + digraphs)
+  if end_of_word:
+    coda = random.choice(3*[''] + one_letter_onsets)
+  else:
+    coda = ''
 
   return onset + nucleus + coda
 
