@@ -1,9 +1,20 @@
 Sample output;
 
-kamec rikica ok vofaj losci cu vuebefuem it cus yokice togoceap jic yi cipoit sap jamytav dupujuitu juw luh hi jikuosiovepegok tugeaj judiowoikuj gav glow nohisom weeb we vas levahuep guwegoeb wacutois laip cetyp wuriofowulo no parulea hitiwali lifouvukoav boweneuyoar ciruo if shacytucrudo pour doafeosiof nie laupu miri us muoh pifagrifih shunuv bikeewetuw a dut kik pew lufun be by camugafud tatasijeb vodeh me miek on momawo miyadahek oh a tugagrew mamei gamiv seanov ba gakimoheur taunecohyg
+```
+kamec rikica ok vofaj losci cu vuebefuem it cus yokice togoceap jic yi cipoit 
+sap jamytav dupujuitu juw luh hi jikuosiovepegok tugeaj judiowoikuj gav glow 
+nohisom weeb we vas levahuep guwegoeb wacutois laip cetyp wuriofowulo no parulea 
+hitiwali lifouvukoav boweneuyoar ciruo if shacytucrudo pour doafeosiof nie laupu 
+miri us muoh pifagrifih shunuv bikeewetuw a dut kik pew lufun be by camugafud 
+tatasijeb vodeh me miek on momawo miyadahek oh a tugagrew mamei gamiv seanov ba 
+gakimoheur taunecohyg
+```
 
 This code considers only orthographics, not phonetics, for the simple reason that it is printing out letters and not sounds.
 More or less ignores a variety of Greek influences.
+
+
+
 
 http://www.mieliestronk.com/corncob_lowercase.txt
 
